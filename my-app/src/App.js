@@ -1,10 +1,5 @@
 import "./App.css";
-import Banner from "./Banner.js";
 
 export default function App() {
-  return (
-    <div className="App">
-      <About></About>
-    </div>
-  );
+  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
 }
