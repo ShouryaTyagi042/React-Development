@@ -4,8 +4,7 @@ import Banner from "./Banner.js";
 export default function App() {
   return (
     <div className="App">
-      <Banner></Banner>
-      {/* <Team></Team> */}
+      <About></About>
     </div>
   );
 }
